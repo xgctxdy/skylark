@@ -1,2 +1,2 @@
-# skylark_tour
+# skylark
 a project for travel
